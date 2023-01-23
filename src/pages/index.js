@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            现在就开始了解FxSkillAPI的增强功能 ⏩
           </Link>
         </div>
       </div>

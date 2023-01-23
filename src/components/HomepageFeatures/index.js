@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '便捷使用',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        这用起来和常规的SkillAPI没有什么不同
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '永久免费',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        是的我并不需要FxSkillAPI来进行盈利，当然如果这个插件帮到你了，你也可以给我一些赞助~
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '极快的反馈',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        经过半年用户的验证，出现BUG/问题反馈，我都会在24*2h内回复并**解决**，给你一个更好的使用环境
       </>
     ),
   },
