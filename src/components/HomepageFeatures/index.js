@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '便捷使用',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_experience_design_re_dmqq.svg').default,
     description: (
       <>
         这用起来和常规的SkillAPI没有什么不同
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: '永久免费',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/free.svg').default,
     description: (
       <>
         是的我并不需要FxSkillAPI来进行盈利，当然如果这个插件帮到你了，你也可以给我一些赞助~
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '极快的反馈',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_contact_us_re_4qqt.svg').default,
     description: (
       <>
         经过半年用户的验证，出现BUG/问题反馈，我都会在24*2h内回复并**解决**，给你一个更好的使用环境
