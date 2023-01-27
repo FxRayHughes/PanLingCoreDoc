@@ -26,10 +26,13 @@ sidebar_position: 1
 >
 > 本插件MCBBS: https://www.mcbbs.net/thread-1385468-1-1.html
 
-# 本文档说明
+## [项目更新日志](https://xv5zac7cto.feishu.cn/docx/doxcnqu6PQN8RMvxsnFdCUdb5Lb)
+
+
+## 本文档说明
 本文档是解释类文档 专门解释 枫溪更新了的功能
 
 并不提供对原版的SkillAPI/ProSkillAPI的帮助
 
-# 交流反馈
+## 交流反馈
 点击**文字**加入群聊 [你枫溪的三轮车工坊](https://jq.qq.com/?_wv=1027&k=2DrDaIQW)
