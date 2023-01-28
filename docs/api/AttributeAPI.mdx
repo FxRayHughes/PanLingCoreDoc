@@ -20,6 +20,30 @@ sidebar_position: 1
 public static Integer getAttribute(LivingEntity entity, String key)
 ```
 
+## 增加实体属性
+```java title="com.sucy.skill.api.attribute.AttributeAPI"
+ /**
+ * 给实体增加属性 会自动判断是玩家还是Mob
+ *
+ * @param entity 目标
+ * @param source 源
+ * @param attribute 属性
+ * @param value 值
+ */
+public static void addAttribute(LivingEntity entity, String source, String attribute, Integer value)
+```
+
+## 删除源
+```java title="com.sucy.skill.api.attribute.AttributeAPI"
+ /**
+ * 删除属性源
+ *
+ * @param entity 目标
+ * @param source 源
+ */
+public static void clearSource(LivingEntity entity, String source)
+```
+
 ## 临时增加属性
 
 ```java title="com.sucy.skill.api.attribute.AttributeAPI"
