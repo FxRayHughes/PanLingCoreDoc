@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Fx Skill API',
-  tagline: '基于ProSkillAPI再次开发的插件',
+  title: 'PanLingCore',
+  tagline: '一隅烂柯开发文档',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -58,9 +58,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Fx Skill API',
+        title: 'PanLingCore',
         logo: {
-          alt: 'Fx Skill API Logo',
+          alt: 'PanLingCore Logo',
           src: 'img/logo.svg',
         },
         items: [
